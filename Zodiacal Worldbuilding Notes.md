@@ -264,7 +264,10 @@ The language refuses to third-person them, so enemies, news broadcasts, and cour
 
 Zodiacs choose their own names.
 Before that, a Zodiac carries the name of their community plus a number that never reuses itself: *Kepler-Reach Nineteen*.
-The form descends from the collar-era registry, which knew Zodiacs only as designations; the community issues them now, and nobody fights over them.
+The form descends from the collar-era registry, which knew Zodiacs only as designations; communities issue them now.
+What they fight over is provenance.
+The old system names a newborn after the community itself, the way an owner's registry once named them after a holding, and the younger generation favours designations that come from somewhere else: a birthplace, a first deed, a name the newborn eventually claims as their own.
+The present sits between the two systems, and the split is generational but not clean, since there are young Zodiacs who want the community's name exactly because their grandparents were denied one.
 
 #### Good faith and bad faith
 
