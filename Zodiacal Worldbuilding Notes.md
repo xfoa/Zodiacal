@@ -1,4 +1,4 @@
-# Zodiacal Worldbuilding Notes
+his, # Zodiacal Worldbuilding Notes
 
 A working record of the world as decided: what it looks like, how it works, where the conflicts live, and what we still haven't answered.
 
@@ -273,8 +273,8 @@ Defectors sit across every line, and their stories are the ones the culture rete
 #### Growing up
 
 There are no schools.
-A young Zodiac learns in flight-hours beside named elders, because what an elder knows, an elder teaches, and the community that names the newborn is the community that raises it.
-An unaligned youth is therefore short on more than company.
+A young Zodiac learns by shadowing beside named elders, because what an elder knows, an elder teaches, and the community that names the newborn is the community that raises it.
+An unaligned youth is therefore short on experience to learn from as well as company.
 
 The first syllabus is diet.
 Newborns run on hydrogen, quick energy eaten on the move, and grazing solar wind and nebula particulate is a discipline learned after.
@@ -285,25 +285,26 @@ This is where the trust mechanics of adulthood are learned: a youth raised along
 
 #### Games
 
-The youngest game is *hold-still*: keep station against the solar wind while the others try to push you off.
-It is grazing instinct turned into king-of-the-hill, and it teaches the same steadiness the newborn tutorial demands in its first minutes.
+The game played by the youngest is *keeps*: hold your position against the solar wind while the others try to push you off. The one who drifts is caught, and the caught go in the keep.
+That the game is named after the confinement nets that catchers use is no coincidence, as it keeps the danger of capture at the forefront of awareness.
+Besides this, it is also grazing instinct turned into king-of-the-castle, and it teaches both the steadiness of flight and steadfastness of navigation.
 
-Older young play *chase-the-light*.
+Older young play *abyssals*, named for the signalling cousin whose grammar it borrows.
 One carries a light-pattern on their skin, the rest read it and run it down, and the pattern degrades a little each time it changes hulls.
-The game trains the abyssalis light-grammar that adulthood turns into feelings made visible, and a young Zodiac who cannot hold their light steady learns that cost early.
+The game trains the light-grammar that adulthood turns into feelings made visible, and a young Zodiac learns hold their light steady early.
 
 Then there is *we*, a dare game, and a mildly transgressive one.
-Young Zodiacs pretend to a shared mind, calling moves for each other and trying to act as one organism.
+Young Zodiacs pretend to share a mind, calling moves for each other and trying to act as one organism.
 The Symbiosists point at it as proof that the inherited lattice wants to wake; the Corps tolerates it the way you tolerate children playing at a trade you find distasteful.
 
-Pit is the youth league of the arena: bouts to yield, flown for status long before they are flown for law.
-Every arena elder started there, and pit records are the childhood rhyme of the manumission book.
+Pit is the youth league of the arena: non-lethal bouts, flown for status and training long before they are flown for law.
+Every arena elder started there, and a good pit record follows a young fighter up.
 
-Born-bonded youths play their own versions inside the bond, with crew, and born-free youths play in open space between Zodiacs.
-Each side's children find the other side's games faintly creepy.
+Born-bonded youths play their own versions inside the bond, with crew, and born-free youths play in open space between star systems.
+Each side's children find the other side's games faintly unsettling.
 
 Every game has a boundary rule about not straying, because the young and newly named are the preferred catch (see §16).
-Testing the boundary is ordinary childhood except that here the penalty is the landing.
+Testing the boundary is an ordinary childhood rite of passage, though doing this (especially alone) carries the risk of being landed.
 
 #### Dark games
 
@@ -712,4 +713,5 @@ Somewhere there is a Corps official selling catcher intelligence, and somewhere 
 
 13. How many vision modes are there, what does each highlight, how do painterly rendering layers map to senses, and what is the performance cost?
 14. How do multiplayer and single-player relate? Shared canon, shared unlocks? Is the arena the same physical place in both modes?
+
 
