@@ -1,4 +1,4 @@
-his, # Zodiacal Worldbuilding Notes
+# Zodiacal Worldbuilding Notes
 
 A working record of the world as decided: what it looks like, how it works, where the conflicts live, and what we still haven't answered.
 
@@ -32,7 +32,7 @@ Zodiacs are always they/them and have neither gender nor sex.
 
 #### Visual history
 
-Terran slowships started out gunmetal grey and utilitarian, their design cues drawn from today's seagoing battleships and from the boolean-operated Platonic solids of real-world 70s  science fiction.
+Terran slowships started out gunmetal grey and utilitarian, their design cues drawn from today's seagoing battleships and from the boolean-operated Platonic solids of real-world 70s science fiction.
 Once the Mirandae were discovered and their images disseminated, the design language shifted toward the creatures of wonder themselves: brighter colours, more organic shapes.
 Mechanical hulls never learned to cross between stars, but they learned to dress like what could.
 
@@ -44,6 +44,12 @@ The whole of *Alpha Centauri*, for what an album-length synth journey feels like
 And the contralto operatic singing against synth in "La forza del Saturno" (on *Paradiso*), the register where a human voice rides the machine without losing to it.
 
 Kaitlyn Aurelia Smith is a musician along similar lines, who can be seen as a modern Buchla practitioner. She has an [Instagram](https://www.instagram.com/kaitlynaurelia) and may be a prospect as someone to approach about a collaboration.
+
+#### Sound design
+
+There are no sound effects.
+Everything the player hears is the score, reshaped on the fly to carry what a sound effect would: weapons fire pulls the music into a drum beat in time with the firing, and the moment the weapons stop, the music settles back.
+The system only works if the music never stops and never repeats, so the soundtrack is constant and procedurally generated, with composed material as its spine rather than its body.
 
 ## 4. Biology
 
@@ -288,15 +294,15 @@ Zodiacs inherit the same machinery, engineered in one place: seed-writing is del
 A mature Zodiac, or several together, chooses to weave a seed, and the choice costs.
 The heavy-element core of an ootheca cannot be built on a hydrogen diet, so the long elder journeys to the dying stars are, among other things, the journey made before parenting.
 
-What the seed falls into afterward is a cultural fork.
+The ootheca then falls into one of two cradles, and which one is a cultural question.
 *Star gestation* is the wild way: the community plants the ootheca in a suitable star and waits years, and the newborn emerges alone in the nursery system and must be found.
 Star births are watched by armed relatives for the whole gestation, because an unguarded nursery star is a fishing ground for catcher crews.
 *Forge gestation* is the inherited Zoewright way: surviving production forges, induction chambers mimicking a star's outer envelope, run cooperatively by free communities.
-A forge-born newborn emerges into a room full of waiting people, which forge communities consider civilised and star-born Zodiacs consider faintly industrial, because the forge is the collar era's machine.
+A forge-born newborn emerges into a room full of waiting people, which forge communities consider civilised and star-born Zodiacs consider faintly industrial, since the forge is the machine the collar era built.
 Both kinds of newborn arrive conscious, precocious, and uncrewed, and the phrase the culture reaches for is the same either way.
 
 The Zoewrights spent their first decades unable to make a Zodiac at all, because nobody knew how the Mirandae reproduced.
-The seeds were too small to find, the nursery stars too hot to watch, and the animals themselves answer no questions. Naturalists cataloguing the genus faced the old eel problem of a whole life cycle with one act missing.
+The seeds were too small to find, the nursery stars too hot to watch, and the animals themselves answer no questions. Naturalists cataloguing the genus faced the old eel problem: the genus has a life cycle whose reproductive act nobody could find.
 The pulse survey broke it open, and reading a recovered ootheca did the rest.
 
 #### Growing up
@@ -320,13 +326,13 @@ Besides this, it is also grazing instinct turned into king-of-the-castle, and it
 
 Older young play *abyssals*, named for the signalling cousin whose grammar it borrows.
 One carries a light-pattern on their skin, the rest read it and run it down, and the pattern degrades a little each time it changes hulls.
-The game trains the light-grammar that adulthood turns into feelings made visible, and a young Zodiac learns hold their light steady early.
+The game trains the light-grammar that adulthood turns into feelings made visible, and a young Zodiac learns to hold their light steady early.
 
 Then there is *we*, a dare game, and a mildly transgressive one.
 Young Zodiacs pretend to share a mind, calling moves for each other and trying to act as one organism.
 The Symbiosists point at it as proof that the inherited lattice wants to wake; the Corps tolerates it the way you tolerate children playing at a trade you find distasteful.
 
-Pit is the youth league of the arena: non-lethal bouts, flown for status and training long before they are flown for law.
+*Pit* is the youth league of the arena: non-lethal bouts, flown for status and training long before they are flown for law.
 Every arena elder started there, and a good pit record follows a young fighter up.
 
 Born-bonded youths play their own versions inside the bond, with crew, and born-free youths play in open space between star systems.
@@ -722,7 +728,7 @@ Somewhere there is a Corps official selling catcher intelligence, and somewhere 
 5. Who crews arena fighters? Humans, other Zodiacs, something else? What is a fighter's composition?
 6. What are the full "We" rules? Must all crew consent to the rename? Can a "We" divorce partially? If the name never changes, is there still a ceremony when a new member joins?
 6a. Who breeds the Priest? A parasite is a living supply chain: someone has to keep the strain alive, and a living thing can be cut off in ways a drug stockpile cannot.
-6b. Reproduction mechanics (see §11): what does an ootheca cost the parents, in years and in heavy elements? Do forge gestations differ from star gestations in the newborn, beyond the welcome? Is there a customs or ceremony around seed-writing?
+6b. Reproduction mechanics (see §11): what does an ootheca cost the parents, in years and in heavy elements? Do forge gestations differ from star gestations in the newborn, beyond the welcome? Is there a custom or ceremony around seed-writing?
 6c. FTL is biological and cannot be machined, so slowboats are confined to systems. How much slowboat traffic runs inside systems, and does anyone still take one between stars, a haul lasting decades, where a Zodiac cannot be hired or will not go?
 6d. Do the wild Miranda still exist, and can Zodiacs meet them? Unengineered cousins out there (smaller, stranger, unbondable) would make a very different game from wild species known only through museum records. Related: is the wild lineage common knowledge, a discovery the story makes, or a secret the black market would price above the spec sheets?
 6e. What does the map look like? How many slowboat old worlds survive from the diaspora, how far did collar-era expansion reach, and how much has been explored since liberation?
