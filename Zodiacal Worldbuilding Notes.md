@@ -270,6 +270,35 @@ Defectors sit across every line, and their stories are the ones the culture rete
 
 ## 11. Zodiac Lifecycle
 
+#### Reproduction
+
+The wild Miranda reproduces in a star.
+Parents weave an *ootheca*, a dense hull of heavy elements and radiation-hardened tissue, and seal the seed inside it: the coiled instruction set, assembled from their own genetic contributions, waiting inert at the centre.
+The ootheca drifts on solar wind until it falls into a star's outer layers, and there the seed wakes and gestates by accretion, drinking the heat and the matter, assembling hull and molecular machinery over years.
+Emergence is violent.
+Breaking the ootheca from inside a photosphere takes an enormous release of stored energy, and the flash propagates through the star's magnetic field as a pulse that a listening civilisation can detect light-years away.
+The naturalists found the nursery systems by triangulating these pulses, which is how humanity learned where the Mirandae are born.
+
+Mirandae reproduce sexually, and every Miranda is a hermaphrodite.
+Any number of individuals can contribute to one seed, and the ootheca's instruction set braids them all.
+The species of the genus do not interbreed, or barely ever: the catalogue records contested exceptions.
+Mirandae and Zodiacs cannot interbreed at all, and the suggestion is not merely taboo but distasteful to Zodiacs, on the order of bestiality: the engineered line is people, and the wild genus, however wondrous, is not.
+
+Zodiacs inherit the same machinery, engineered in one place: seed-writing is deliberate.
+A mature Zodiac, or several together, chooses to weave a seed, and the choice costs.
+The heavy-element core of an ootheca cannot be built on a hydrogen diet, so the long elder journeys to the dying stars are, among other things, the journey made before parenting.
+
+What the seed falls into afterward is a cultural fork.
+*Star gestation* is the wild way: the community plants the ootheca in a suitable star and waits years, and the newborn emerges alone in the nursery system and must be found.
+Star births are watched by armed relatives for the whole gestation, because an unguarded nursery star is a fishing ground for catcher crews.
+*Forge gestation* is the inherited Zoewright way: surviving production forges, induction chambers mimicking a star's outer envelope, run cooperatively by free communities.
+A forge-born newborn emerges into a room full of waiting people, which forge communities consider civilised and star-born Zodiacs consider faintly industrial, because the forge is the collar era's machine.
+Both kinds of newborn arrive conscious, precocious, and uncrewed, and the phrase the culture reaches for is the same either way.
+
+The Zoewrights spent their first decades unable to make a Zodiac at all, because nobody knew how the Mirandae reproduced.
+The seeds were too small to find, the nursery stars too hot to watch, and the animals themselves answer no questions. Naturalists cataloguing the genus faced the old eel problem of a whole life cycle with one act missing.
+The pulse survey broke it open, and reading a recovered ootheca did the rest.
+
 #### Growing up
 
 There are no schools.
@@ -693,7 +722,7 @@ Somewhere there is a Corps official selling catcher intelligence, and somewhere 
 5. Who crews arena fighters? Humans, other Zodiacs, something else? What is a fighter's composition?
 6. What are the full "We" rules? Must all crew consent to the rename? Can a "We" divorce partially? If the name never changes, is there still a ceremony when a new member joins?
 6a. Who breeds the Priest? A parasite is a living supply chain: someone has to keep the strain alive, and a living thing can be cut off in ways a drug stockpile cannot.
-6b. How do Zodiacs reproduce? They have no sex, but new Zodiacs are born. Are they born of other Zodiacs, grown, engineered still? Where do newborns come from, and who, if anyone, decides their number?
+6b. Reproduction mechanics (see §11): what does an ootheca cost the parents, in years and in heavy elements? Do forge gestations differ from star gestations in the newborn, beyond the welcome? Is there a customs or ceremony around seed-writing?
 6c. FTL is biological and cannot be machined, so slowboats are confined to systems. How much slowboat traffic runs inside systems, and does anyone still take one between stars, a haul lasting decades, where a Zodiac cannot be hired or will not go?
 6d. Do the wild Miranda still exist, and can Zodiacs meet them? Unengineered cousins out there (smaller, stranger, unbondable) would make a very different game from wild species known only through museum records. Related: is the wild lineage common knowledge, a discovery the story makes, or a secret the black market would price above the spec sheets?
 6e. What does the map look like? How many slowboat old worlds survive from the diaspora, how far did collar-era expansion reach, and how much has been explored since liberation?
