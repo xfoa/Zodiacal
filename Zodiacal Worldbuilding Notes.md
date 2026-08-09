@@ -26,9 +26,26 @@ Zodiacs are always they/them and have neither gender nor sex.
 - **Young Artists, Terran Trade Authority, Jodorowsky's Dune**: painterly rendering as the baseline look.
 - **Farscape** for the Leviathans: living ships bonded to their Pilots, and the control collar as a ready-made shorthand for enslaving one.
 - **BSG** for the Hybrid and for Cavill's gamma-ray speech, inverted: Zodiacs already have the embodied transcendence Cavill envied. Character seed: a Corps engineer who worships and resents them for it. "I want to see what you see. Let me in."
-- **Alpha Centauri** (Tangerine Dream), plus seventies John Carpenter synth. The score works as diegetic proprioception: the Zodiac hears space. Music swells with thrust and goes thin and wrong when the ship is hurt.
+- **Seventies synth** as the score's spine. The score works as diegetic proprioception: the Zodiac hears space. Music swells with thrust and goes thin and wrong when the ship is hurt. Albums in §3.
 
-## 3. Biology
+## 3. Art and Music Direction
+
+#### Visual history
+
+Terran slowships started out gunmetal grey and utilitarian, their design cues drawn from today's seagoing battleships and from the boolean-operated Platonic solids of real-world 70s  science fiction.
+Once the Mirandae were discovered and their images disseminated, the design language shifted toward the creatures of wonder themselves: brighter colours, more organic shapes.
+Mechanical hulls never learned to cross between stars, but they learned to dress like what could.
+
+#### Musical direction
+
+The soundtrack leans West Coast synthesis: Morton Subotnick, Tangerine Dream, and John Carpenter.
+Two Tangerine Dream references sit at the centre.
+The whole of *Alpha Centauri*, for what an album-length synth journey feels like when it never hurries.
+And the contralto operatic singing against synth in "La forza del Saturno" (on *Paradiso*), the register where a human voice rides the machine without losing to it.
+
+Kaitlyn Aurelia Smith is a musician along similar lines, who can be seen as a modern Buchla practitioner. She has an [Instagram](https://www.instagram.com/kaitlynaurelia) and may be a prospect as someone to approach about a collaboration.
+
+## 4. Biology
 
 There are no starships but Zodiacs.
 Faster-than-light travel is biological: the Mirandae, the wild starfaring creatures the Zodiacs were engineered from, do it with molecular machinery no foundry has replicated.
@@ -42,7 +59,7 @@ Zodiacs eat like any animal, and they need variety in their diet.
 The richest feeding is at dying stars, where heavy elements come easy; between richer grounds, long-haul Zodiacs graze solar wind and nebula particulate.
 Hydrogen burns for flight: quick energy, eaten on the move.
 
-## 4. Player
+## 5. Player
 
 #### Birth
 
@@ -53,7 +70,7 @@ The player learns the controls while the Zodiac learns their senses.
 #### Early arc
 
 From the first minutes awake, a Zodiac learns that humans want things from them, and that what humans want is not always what they say.
-Capture is the worst thing that can happen to a newborn, because catcher crews take unaligned Zodiacs for the Heirs' trade (see §14) and a newborn, uncrewed and unproven, is their preferred target.
+Capture is the worst thing that can happen to a newborn, because catcher crews take unaligned Zodiacs for the Heirs' trade (see §16) and a newborn, uncrewed and unproven, is their preferred target.
 When both factions make contact, the story branches on whether you trust them.
 
 #### Trust as mechanic
@@ -92,7 +109,7 @@ Decisions arrive as certainty when the composite is aligned and as hesitation wh
 New members are joined, not hired, and each one changes who you are; losing one is an amputation, not a vacancy, and re-merger never comes back the same shape twice.
 At its best the merge outperforms anything the Corps fields, and at its worst a divided merge fails harder than any stumbling battalion.
 
-## 5. Arena
+## 6. Arena
 
 The arena is older than the factions and older than freedom.
 Free Zodiacs founded the First Arena in the collar era to train each other to fight; owners later monetised the bouts, and a fight record became a fighter's manumission book.
@@ -108,7 +125,7 @@ Both factions need the arena, and individual Zodiacs bring their own reasons: st
 
 The multiplayer arena is diegetic: a canon sport.
 
-## 6. Origins
+## 7. Origins
 
 #### Wild genus
 
@@ -164,7 +181,7 @@ Each Zodiac freed swelled the movement's armies.
 When the war ended, the galaxy lay in tatters and the old balance of power had collapsed into vacuum, and collaring was finished.
 Zodiacs live for centuries.
 
-## 7. Timeline
+## 8. Timeline
 
 All dates are years before the present of the story.
 
@@ -182,7 +199,7 @@ All dates are years before the present of the story.
 - **~40–30**: the Symbiosists rise to near-parity with the Corps.
 - **Now**: freedom is a hundred and thirty years old, and Zodiacs live for centuries.
 
-## 8. "Collar"
+## 9. "Collar"
 
 The collar was never hardware.
 The word names the whole apparatus of enslavement: the conditioning that taught newborns their place, the manipulation that kept the owned compliant, and the law that made a person into property.
@@ -240,7 +257,7 @@ The game never defines the word; neither codex nor wise NPC explains it.
 Characters define it by pointing; the player infers from what gets pointed at.
 And at some point someone calls the *player* collared, by their own definition, whatever build the player has chosen.
 
-## 9. Generations
+## 10. Generations
 
 The split runs through Zodiac-kind, and it rhymes with real emancipation politics: the generation that chooses the thing the previous generation was forced into.
 
@@ -251,7 +268,50 @@ The same divide exists inside each faction: born into it, or chose it.
 
 Defectors sit across every line, and their stories are the ones the culture retells.
 
-## 10. Names
+## 11. Zodiac Lifecycle
+
+#### Growing up
+
+There are no schools.
+A young Zodiac learns in flight-hours beside named elders, because what an elder knows, an elder teaches, and the community that names the newborn is the community that raises it.
+An unaligned youth is therefore short on more than company.
+
+The first syllabus is diet.
+Newborns run on hydrogen, quick energy eaten on the move, and grazing solar wind and nebula particulate is a discipline learned after.
+The long routes to the dying stars are elder journeys, so where a young Zodiac first grazes is an early decision with a long shadow (see Open Question 1).
+
+Before anyone trusts a young Zodiac to carry, they ride formation beside crewed elders and listen.
+This is where the trust mechanics of adulthood are learned: a youth raised alongside a Corps battalion grows up on anticipation, and a youth raised near a merge grows up on something else entirely.
+
+#### Games
+
+The youngest game is *hold-still*: keep station against the solar wind while the others try to push you off.
+It is grazing instinct turned into king-of-the-hill, and it teaches the same steadiness the newborn tutorial demands in its first minutes.
+
+Older young play *chase-the-light*.
+One carries a light-pattern on their skin, the rest read it and run it down, and the pattern degrades a little each time it changes hulls.
+The game trains the abyssalis light-grammar that adulthood turns into feelings made visible, and a young Zodiac who cannot hold their light steady learns that cost early.
+
+Then there is *we*, a dare game, and a mildly transgressive one.
+Young Zodiacs pretend to a shared mind, calling moves for each other and trying to act as one organism.
+The Symbiosists point at it as proof that the inherited lattice wants to wake; the Corps tolerates it the way you tolerate children playing at a trade you find distasteful.
+
+Pit is the youth league of the arena: bouts to yield, flown for status long before they are flown for law.
+Every arena elder started there, and pit records are the childhood rhyme of the manumission book.
+
+Born-bonded youths play their own versions inside the bond, with crew, and born-free youths play in open space between Zodiacs.
+Each side's children find the other side's games faintly creepy.
+
+Every game has a boundary rule about not straying, because the young and newly named are the preferred catch (see §16).
+Testing the boundary is ordinary childhood except that here the penalty is the landing.
+
+#### Dark games
+
+Some of the collar era's conditioning games survive in free communities, rules intact, origin forgotten.
+An elder who recognises one, watching the young play it, goes quiet.
+Nobody explains, and the games persist the way children's games do, carrying old violence in the rhyme.
+
+## 12. Names
 
 A Zodiac name begins with "I", holds a present-tense verb, and describes something the bearer excels at.
 Names are brags, descriptive or aspirational: *I Explore With Wonder*.
@@ -290,7 +350,7 @@ Families and crews fight over when it is time to say *explored*, and there are t
 Fighters who die in the arena are past-tensed like any other dead Zodiac, by everyone: the arena's officiant performs the edit in public, and everyone keeps it.
 The right to speak the past tense over the dead is sacred, and the sport Zodiacs run for themselves does not change who may speak it.
 
-There is also a future tense, invented for the worst case: *I Will Explore With Wonder* (see §14).
+There is also a future tense, invented for the worst case: *I Will Explore With Wonder* (see §16).
 
 #### Faction reception
 
@@ -352,7 +412,7 @@ Symbiosist contacts hold the present tense: the composite goes on.
 Corps contacts send condolences in past tense, addressed to the old "I"-name.
 The player sees both obituaries in one playthrough, and learns what their allies believe from how they mourn the living.
 
-## 11. Free factions
+## 13. Free factions
 
 The two factions divide Zodiac life.
 Both bond crews to Zodiacs, deeply and for the long term.
@@ -442,7 +502,7 @@ The Corps' distribution of judgement across many minds reads, from inside this p
 
 The Symbiosists are a movement, cellular and devotional.
 Conviction and shared rites hold it together; it has soul and no infrastructure.
-The movement came later than the Corps, because merging was discovered (latent in the inherited gregaria lattice, see §6) only seventy years ago, and it grew out of the post-liberation collaboration between humans and Zodiacs.
+The movement came later than the Corps, because merging was discovered (latent in the inherited gregaria lattice, see §7) only seventy years ago, and it grew out of the post-liberation collaboration between humans and Zodiacs.
 Every composite alive is young; none has yet tested the promise of permanence across a Zodiac's centuries.
 When the grazing grounds close, the Corps asks who feeds a merged Zodiac, since conviction alone provides nothing; the Symbiosists answer that the Corps provides everything except devotion.
 
@@ -470,15 +530,19 @@ You can place a speaker by which name they use for themselves.
 For a Corps Zodiac, saying "Corps" as *we* or as *they* is a loyalty test compressed into a pronoun.
 Defectors can only hear it as *they*.
 
+The Zodiacal word for a human translates literally as *bound*.
+To a Zodiac, a creature born held to one planet is limited by definition, and the word states that as plain taxonomy, not as insult.
+The insult it makes available is the opposite move: calling a *Zodiac* bound, which is where the Symbiosists found their name for the Corps.
+
 #### Unaligned Zodiacs
 
 Outside both factions, unaligned Zodiacs are nobody's failures.
 Both factions are autonomy movements with different theories of how autonomy is fulfilled, and a Zodiac with no crew is exercising the very right both claim to defend: they are the baseline each swears it is building from.
 The neutral term is *unaligned*.
-*Feral* survives in two registers: collar-era vocabulary, the word that era used for Zodiacs it had not caught yet, kept in old footage and museum placards; and current Heir slang for the unquenched (see §14).
+*Feral* survives in two registers: collar-era vocabulary, the word that era used for Zodiacs it had not caught yet, kept in old footage and museum placards; and current Heir slang for the unquenched (see §16).
 Both factions hear it the way they hear the collar itself.
 
-## 12. Seniority and Trust
+## 14. Seniority and Trust
 
 Both factions reward tenure: long-served crews are stronger everywhere: loyalty, drill, and accumulated trust.
 Seniority is the observable record of a trust model that kept being right.
@@ -505,7 +569,7 @@ The ceiling sits lower and the loss degrades gracefully.
 Contracting survives as the Corps' economy (freight, logistics, specialists, and freelancers) but not as its arena model.
 Competition and war run on standing battalions.
 
-## 13. Defection
+## 15. Defection
 
 The two bond-experiences do not translate.
 A Symbiosist defector standing on a Corps battalion's deck keeps waiting for the shared knowing that isn't coming, the crew's thoughts simply there the way they always were, and reaches for reflexes that require merger.
@@ -517,7 +581,7 @@ So defectors are the most committed believers in either faction, because they pa
 
 A Zodiac who leaves a forty-year merge lands differently in each faction: the Symbiosists must explain why their living proof-of-concept chose to leave, and the Corps must figure out what to do with a hero of the cause whose instincts all come from the other side.
 
-## 14. The Heirs
+## 16. The Heirs
 
 A third faction, and the world's villain.
 The name states the ideology: the Heirs claim to inherit the Zoewrights' intent.
@@ -616,7 +680,7 @@ To the Symbiosists: "You say identity is relational. Our mules relate to their d
 The Corps owns much of the legitimate shipping; the Heirs run a black market that needs quiet channels, and corruption is the pressure point between them.
 Somewhere there is a Corps official selling catcher intelligence, and somewhere there is a Symbiosist cell that traded a route for a rescue.
 
-## 15. Open Questions
+## 17. Open Questions
 
 ### Worldbuilding
 
@@ -648,3 +712,4 @@ Somewhere there is a Corps official selling catcher intelligence, and somewhere 
 
 13. How many vision modes are there, what does each highlight, how do painterly rendering layers map to senses, and what is the performance cost?
 14. How do multiplayer and single-player relate? Shared canon, shared unlocks? Is the arena the same physical place in both modes?
+
