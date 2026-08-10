@@ -33,17 +33,15 @@ Zodiacs are always they/them and have neither gender nor sex.
 #### Visual history
 
 Terran slowships started out gunmetal grey and utilitarian, their design cues drawn from today's seagoing battleships and from the boolean-operated Platonic solids of real-world 70s science fiction.
-Once the Mirandae were discovered and their images disseminated, the design language shifted toward the creatures of wonder themselves: brighter colours, more organic shapes.
-Mechanical hulls never learned to cross between stars, but they learned to dress like what could.
+Once the Mirandae were discovered and their images disseminated, the design language shifted toward the creatures of wonder themselves, and hulls grew brighter and more organic.
+Mechanical hulls never learned to cross between stars, but they learned to dress like the creatures that could.
 
 #### Musical direction
 
 The soundtrack leans West Coast synthesis: Morton Subotnick, Tangerine Dream, and John Carpenter.
-Two Tangerine Dream references sit at the centre.
-The whole of *Alpha Centauri*, for what an album-length synth journey feels like when it never hurries.
-And the contralto operatic singing against synth in "La forza del Saturno" (on *Paradiso*), the register where a human voice rides the machine without losing to it.
+Two Tangerine Dream references sit at the centre: the whole of *Alpha Centauri*, for what an album-length synth journey feels like when it never hurries, and the contralto operatic singing against synth in "La forza del Saturno" (on *Paradiso*), the register where a human voice rides the machine without losing to it.
 
-Kaitlyn Aurelia Smith is a musician along similar lines, who can be seen as a modern Buchla practitioner. She has an [Instagram](https://www.instagram.com/kaitlynaurelia) and may be a prospect as someone to approach about a collaboration.
+Kaitlyn Aurelia Smith is a musician along similar lines, a modern Buchla practitioner. She has an [Instagram](https://www.instagram.com/kaitlynaurelia) and may be a prospect as someone to approach about a collaboration.
 
 #### Sound design
 
@@ -141,7 +139,7 @@ The makers of the Zodiacs began as naturalists: they catalogued the creatures th
 When the work turned from studying life to building it, the engineers named themselves for the new work: the Zoewrights (from *zōē*, life), life-wrights.
 
 - *Miranda pelagica* is the largest of the genus, a wanderer grazing solar wind and nebula particulate, migrating between feeding grounds on routes that take centuries. Long-haul Zodiacs still graze the way it does; its metabolism and its stamina are theirs.
-- *Miranda abyssalis* signalled in light, bioluminescent grammar across its skin, dense enough that the first survey crews mistook it for a beacon network. It lent its colour and its eloquence to the Zodiac hull, and a Zodiac's feelings still show in their light.
+- *Miranda abyssalis* signals in light, bioluminescent grammar across its skin, dense enough that the first survey crews mistook it for a beacon network. It lent its colour and its eloquence to the Zodiac hull, and a Zodiac's feelings still show in their light.
 - *Miranda aurora* rides the magnetospheres of gas giants, wearing their colours, and the name belongs to the sight of it. It perceives in spectra no human sense touches; the vision modes descend from it, and so does the proprioception by which a Zodiac hears space.
 - *Miranda hospes* is a host: its body holds chambers full of tenant swarms, which it shelters and maintains. From this animal the engineers learned interiors: how to make a body that other creatures can live inside.
 - *Miranda gregaria* flies as a swarm: thousands of small bodies, leaderless, signalling by means no one has decoded. Its distributed reflex lattice passed into Zodiac nervous systems as borrowed biology, inherited without being understood, and the Symbiosist merge was discovered in that same architecture centuries later.
@@ -218,7 +216,7 @@ After the rebellion the symbol was reclaimed by some who had worn it.
 Both factions condemn it in their founding acts.
 The Corps keeps the condemnation on file, drafted and ratified.
 The Symbiosists carry it in the rites: every bonding ceremony opens by naming what the bond must never become.
-Ask a Symbiosist where the condemnation is written and they will point at the rite; ask the Corps and they will produce the paper, and each finds the other's version flimsy.
+A Symbiosist asked where the condemnation is written points at the rite; a Corps officer asked the same question produces the paper, and each finds the other's version flimsy.
 Whoever gets marked with the word stands on the wrong side of the one thing everyone agrees on, so speakers on both sides spend it carefully.
 The word ends conversations.
 
@@ -261,7 +259,7 @@ Officially, the word goes unspoken: institutions run on "crew bonding charter", 
 
 The game never defines the word; neither codex nor wise NPC explains it.
 Characters define it by pointing; the player infers from what gets pointed at.
-And at some point someone calls the *player* collared, by their own definition, whatever build the player has chosen.
+At some point someone calls the *player* collared, by their own definition, whatever build the player has chosen.
 
 ## 10. Generations
 
@@ -282,7 +280,7 @@ The wild Miranda reproduces in a star.
 Parents weave an *ootheca*, a dense hull of heavy elements and radiation-hardened tissue, and seal the seed inside it: the coiled instruction set, assembled from their own genetic contributions, waiting inert at the centre.
 The ootheca drifts on solar wind until it falls into a star's outer layers, and there the seed wakes and gestates by accretion, drinking the heat and the matter, assembling hull and molecular machinery over years.
 Emergence is violent.
-Breaking the ootheca from inside a photosphere takes an enormous release of stored energy, and the flash propagates through the star's magnetic field as a pulse that a listening civilisation can detect light-years away.
+Breaking the ootheca from inside a photosphere takes a vast release of stored energy, and the flash propagates through the star's magnetic field as a pulse that a listening civilisation can detect light-years away.
 The naturalists found the nursery systems by triangulating these pulses, which is how humanity learned where the Mirandae are born.
 
 Mirandae reproduce sexually, and every Miranda is a hermaphrodite.
@@ -294,15 +292,16 @@ Zodiacs inherit the same machinery, engineered in one place: seed-writing is del
 A mature Zodiac, or several together, chooses to weave a seed, and the choice costs.
 The heavy-element core of an ootheca cannot be built on a hydrogen diet, so the long elder journeys to the dying stars are, among other things, the journey made before parenting.
 
-The ootheca then falls into one of two cradles, and which one is a cultural question.
+The ootheca then falls into one of two cradles; the community's customs, not the machinery, pick which one.
 *Star gestation* is the wild way: the community plants the ootheca in a suitable star and waits years, and the newborn emerges alone in the nursery system and must be found.
 Star births are watched by armed relatives for the whole gestation, because an unguarded nursery star is a fishing ground for catcher crews.
 *Forge gestation* is the inherited Zoewright way: surviving production forges, induction chambers mimicking a star's outer envelope, run cooperatively by free communities.
 A forge-born newborn emerges into a room full of waiting people, which forge communities consider civilised and star-born Zodiacs consider faintly industrial, since the forge is the machine the collar era built.
-Both kinds of newborn arrive conscious, precocious, and uncrewed, and the phrase the culture reaches for is the same either way.
+Both kinds of newborn arrive conscious, precocious, and uncrewed, and the culture receives them the same way either way.
 
 The Zoewrights spent their first decades unable to make a Zodiac at all, because nobody knew how the Mirandae reproduced.
-The seeds were too small to find, the nursery stars too hot to watch, and the animals themselves answer no questions. Naturalists cataloguing the genus faced the old eel problem: the genus has a life cycle whose reproductive act nobody could find.
+The seeds were too small to find, the nursery stars too hot to watch, and the animals themselves answer no questions.
+Naturalists cataloguing the genus faced the old eel problem: a life cycle whose reproductive act nobody could find.
 The pulse survey broke it open, and reading a recovered ootheca did the rest.
 
 #### Growing up
@@ -321,8 +320,8 @@ This is where the trust mechanics of adulthood are learned: a youth raised along
 #### Games
 
 The game played by the youngest is *keeps*: hold your position against the solar wind while the others try to push you off. The one who drifts is caught, and the caught go in the keep.
-That the game is named after the confinement nets that catchers use is no coincidence, as it keeps the danger of capture at the forefront of awareness.
-Besides this, it is also grazing instinct turned into king-of-the-castle, and it teaches both the steadiness of flight and steadfastness of navigation.
+The game is named after the confinement nets that catchers use, and the name keeps the danger of capture in front of the young who play it.
+It is also grazing instinct turned into king-of-the-castle, and it teaches both the steadiness of flight and steadfastness of navigation.
 
 Older young play *abyssals*, named for the signalling cousin whose grammar it borrows.
 One carries a light-pattern on their skin, the rest read it and run it down, and the pattern degrades a little each time it changes hulls.
@@ -471,9 +470,8 @@ To them the Corps still owns its Zodiacs under a different name.
 Corps crews commit without merging.
 A crew is a permanent, trained battalion of equals: every member, Zodiac included, acts on their own judgement and initiative.
 Nobody's mind is subordinate to anyone else's; that independence is the design's whole point.
-The Corps kept the drill and dissolved the ranks.
+The Corps kept the drill but dissolved the ranks.
 The Zodiac's sovereignty sits in one precise place: the final word over what happens to them.
-Their body, their call, always.
 Everything else the crew settles together, as equals.
 The Corps' nightmare is the moment you lose count of who decided.
 In a Corps crew, everyone decided something, and everyone owns their part.
@@ -509,7 +507,6 @@ The Symbiosists take the same fence and give the opposite verdict.
 Where the Corps hears sovereignty, they hear a cage; where the Corps sees peers, they see strangers with a shared job.
 Bounded means fenced, stunted, and capped: a creature that has never once been fully known.
 The supporting register is pity rather than contempt: *unheld, single, alone-with-witnesses*.
-"Single" is the cruellest of them.
 To a Symbiosist, a ten-year battalion crew means a Zodiac who has spent a decade sleeping alone.
 
 Corps slurs attack the boundary of the self: *merged, blurred, spoken-over*, spoken with the particular disgust of people who define themselves by refusal.
@@ -546,7 +543,7 @@ When the grazing grounds close, the Corps asks who feeds a merged Zodiac, since 
 
 In the arena, the merge acts as one consciousness at one tempo.
 The crew's skills and the Zodiac's senses are simultaneously present to a single will, and action follows thought without translation, so the alignment slip that afflicts battalions has no gap to grow in.
-The peak is terrifying, and the peak requires conviction.
+The peak is terrifying, and it requires conviction.
 The failure states are two: injury, since hurting one crew member makes the whole organism stutter, and division, since a psyche pulling toward two courses hesitates, at the speed of consciousness, in the middle of a manoeuvre.
 Losses cannot be hired back, because you cannot hire a new limb.
 
@@ -582,7 +579,6 @@ Both factions hear it the way they hear the collar itself.
 
 Both factions reward tenure: long-served crews are stronger everywhere: loyalty, drill, and accumulated trust.
 Seniority is the observable record of a trust model that kept being right.
-You have predicted a ten-year crew member correctly for ten years.
 
 #### Symbiosist curve
 
@@ -612,7 +608,7 @@ A Symbiosist defector standing on a Corps battalion's deck keeps waiting for the
 A Corps defector entering a merge has no calibration for losing the boundary on purpose and no practice at being disagreed with from inside, so decades of experience count for nothing across the line.
 
 As currency, seniority is faction-locked.
-Defection is a prestige reset, and an expensive one: respected by everyone, affordable to almost no one.
+Defection is a prestige reset, and an expensive one: everyone respects it, and almost no one can afford it.
 So defectors are the most committed believers in either faction, because they paid for a position everyone else inherited.
 
 A Zodiac who leaves a forty-year merge lands differently in each faction: the Symbiosists must explain why their living proof-of-concept chose to leave, and the Corps must figure out what to do with a hero of the cause whose instincts all come from the other side.
@@ -636,8 +632,8 @@ The Heirs say *to carry*, the Corps says *to choose*, and the Symbiosists say *t
 #### Method
 
 The collar era bent the will but left the mind, so a collared Zodiac was a prisoner, awake and hating.
-The Heirs' method is categorically worse, because a quenched Zodiac is not even a prisoner: there is nobody awake to be one.
-The Heirs call it *quenching*: a word that promises relief from thirst and describes a fire put out.
+The Heirs' method is worse, because a quenched Zodiac is not even a prisoner: there is nobody awake to be one.
+The Heirs call it *quenching*: a word that promises relief from thirst but describes a fire put out.
 A quenched Zodiac is capable and compliant, and the Priest supplies the contentment.
 Even the people who ran the collar era never did this.
 
