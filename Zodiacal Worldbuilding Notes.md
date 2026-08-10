@@ -74,7 +74,7 @@ The player learns the controls while the Zodiac learns their senses.
 #### Early arc
 
 From the first minutes awake, a Zodiac learns that humans want things from them, and that what humans want is not always what they say.
-Capture is the worst thing that can happen to a newborn, because catcher crews take unaligned Zodiacs for the Heirs' trade (see §16) and a newborn, uncrewed and unproven, is their preferred target.
+Capture is the worst thing that can happen to a newborn, because catcher crews take unaligned Zodiacs for the Heirs' trade (see §17) and a newborn, uncrewed and unproven, is their preferred target.
 When both factions make contact, the story branches on whether you trust them.
 
 #### Trust as mechanic
@@ -337,7 +337,7 @@ Every arena elder started there, and a good pit record follows a young fighter u
 Born-bonded youths play their own versions inside the bond, with crew, and born-free youths play in open space between star systems.
 Each side's children find the other side's games faintly unsettling.
 
-Every game has a boundary rule about not straying, because the young and newly named are the preferred catch (see §16).
+Every game has a boundary rule about not straying, because the young and newly named are the preferred catch (see §17).
 Testing the boundary is an ordinary childhood rite of passage, though doing this (especially alone) carries the risk of being landed.
 
 #### Dark games
@@ -385,7 +385,7 @@ Families and crews fight over when it is time to say *explored*, and there are t
 Fighters who die in the arena are past-tensed like any other dead Zodiac, by everyone: the arena's officiant performs the edit in public, and everyone keeps it.
 The right to speak the past tense over the dead is sacred, and the sport Zodiacs run for themselves does not change who may speak it.
 
-There is also a future tense, invented for the worst case: *I Will Explore With Wonder* (see §16).
+There is also a future tense, invented for the worst case: *I Will Explore With Wonder* (see §17).
 
 #### Faction reception
 
@@ -602,10 +602,37 @@ The insult it makes available is the opposite move: calling a *Zodiac* bound, wh
 Outside both factions, unaligned Zodiacs are nobody's failures.
 Both factions are autonomy movements with different theories of how autonomy is fulfilled, and a Zodiac with no crew is exercising the very right both claim to defend: they are the baseline each swears it is building from.
 The neutral term is *unaligned*.
-*Feral* survives in two registers: collar-era vocabulary, the word that era used for Zodiacs it had not caught yet, kept in old footage and museum placards; and current Heir slang for the unquenched (see §16).
+*Feral* survives in two registers: collar-era vocabulary, the word that era used for Zodiacs it had not caught yet, kept in old footage and museum placards; and current Heir slang for the unquenched (see §17).
 Both factions hear it the way they hear the collar itself.
 
-## 14. Seniority and Trust
+## 14. Economy
+
+#### Corps contracting
+
+The Corps owns much of the legitimate shipping.
+Standing battalions fly arena teams and warships, and contract haulers and freelancers fly freight under Corps contracts.
+Contracting is the Corps' economy: freight, logistics, specialists, and freelancers, all of it administered, insured, and replaceable.
+A client who hires the Corps buys the institution as much as the crew, because the Corps answers for its people and fills a vacant seat.
+
+#### Symbiosist freight
+
+The movement earns its keep in the jump.
+Faster-than-light travel is the Zodiac's own act, a biological faculty no foundry has replicated, so every jump a ship makes is performed by the ship, not by anyone aboard it.
+In a Corps crew that performance is a negotiation: the crew wills the destination, the Zodiac finds the way, and every jump carries the hand-off inside it.
+Corps crews therefore fly plotted lanes, conservatively, and lose slowboat hours at either end.
+A merged crew has no hand-off: the intent and the navigation are one thought.
+They fly tighter windows and insert closer to gravity wells, so their door-to-door times beat Corps schedules even on ordinary runs, and they attempt insertions that a negotiating crew would talk itself out of.
+Where no chart exists they improvise, and some of those improvisations become routes.
+A discovered route is an asset, kept or sold, and the movement's map grows by every run its pragmatists fly.
+Purist cells refuse the market altogether, hauling only for the movement and its neighbours.
+The Corps answers that all of this holds until a merge hesitates mid-jump, and that a ship with two tempos survives its bad moments better than a ship with one.
+
+#### Black market
+
+The Heirs run a black market whose entire labour force is captive, covered in their own section (see §17).
+The pressure point between the legitimate economy and the black market is corruption: somewhere there is a Corps official selling catcher intelligence, and somewhere there is a Symbiosist cell that traded a route for a rescue.
+
+## 15. Seniority and Trust
 
 Both factions reward tenure: long-served crews are stronger everywhere: loyalty, drill, and accumulated trust.
 Seniority is the observable record of a trust model that kept being right.
@@ -631,7 +658,7 @@ The ceiling sits lower and the loss degrades gracefully.
 Contracting survives as the Corps' economy (freight, logistics, specialists, and freelancers) but not as its arena model.
 Competition and war run on standing battalions.
 
-## 15. Defection
+## 16. Defection
 
 The two bond-experiences do not translate.
 A Symbiosist defector standing on a Corps battalion's deck keeps waiting for the shared knowing that isn't coming, the crew's thoughts simply there the way they always were, and reaches for reflexes that require merger.
@@ -643,7 +670,7 @@ So defectors are the most committed believers in either faction, because they pa
 
 A Zodiac who leaves a forty-year merge lands differently in each faction: the Symbiosists must explain why their living proof-of-concept chose to leave, and the Corps must figure out what to do with a hero of the cause whose instincts all come from the other side.
 
-## 16. The Heirs
+## 17. The Heirs
 
 A third faction, and the world's villain.
 The name states the ideology: the Heirs claim to inherit the Zoewrights' intent.
@@ -742,10 +769,8 @@ To the Corps: "You ask a creature that cannot look after itself to answer for it
 
 To the Symbiosists: "You take a human mind, the one mind that was ever meant to decide, and you dissolve it into a beast. A voluntary lobotomy, and for what? They tell us these creatures win bouts. We have never seen it. What we have seen is a ship that hesitates mid-manoeuvre. We do not mutilate our people to improve our livestock. We return the animal to what it is, and we keep the human mind human."
 
-The Corps owns much of the legitimate shipping; the Heirs run a black market that needs quiet channels, and corruption is the pressure point between them.
-Somewhere there is a Corps official selling catcher intelligence, and somewhere there is a Symbiosist cell that traded a route for a rescue.
 
-## 17. Open Questions
+## 18. Open Questions
 
 ### Worldbuilding
 
