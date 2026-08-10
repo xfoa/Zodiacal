@@ -86,7 +86,7 @@ Refusal is a first-class verb with real costs.
 Trust models the world rather than scoring morality, so it rises when you trust the competent and loyal and falls when you trust a fool or a snake.
 Refusing a manoeuvre mid-fight because you doubt your crew's call is a combat verb.
 Refusal takes a different shape in each faction.
-For Symbiosists it is a crisis of the composite self; for the Corps it is a peer overruling a peer, and a seasoned crew rarely needs it, because peers who know each other usually act before an overrule is called for.
+For Symbiosists it is a crisis of the merged self; for the Corps it is a peer overruling a peer, and a seasoned crew rarely needs it, because peers who know each other usually act before an overrule is called for.
 
 #### Betrayal
 
@@ -109,7 +109,7 @@ Authority is earned per decision; so are the consequences.
 #### Symbiosist-side play
 
 On the Symbiosist side, you do not have a crew; you and your crew are a single consciousness.
-Decisions arrive as certainty when the composite is aligned and as hesitation when it pulls two ways, and refusal means a part of yourself dissenting.
+Decisions arrive as certainty when a merged Zodiac is aligned and as hesitation when it pulls two ways, and refusal means a part of yourself dissenting.
 New members are joined, not hired, and each one changes who you are; losing one is an amputation, not a vacancy, and re-merger never comes back the same shape twice.
 At its best the merge outperforms anything the Corps fields, and at its worst a divided merge fails harder than any stumbling battalion.
 
@@ -419,13 +419,13 @@ For the merged Zodiac, both factions use the new name, *We Carry Each Other*.
 
 The fault line underneath is the Ship of Theseus.
 The Corps holds the continuity view: a sudden break in the continuity of memory and consciousness is death, whatever the survivors claim.
-The Symbiosists hold the composite-survival view: the organism is the thing that survives, and members are tissue, not persons of record.
+The Symbiosists hold the merged-survival view: the organism is the thing that survives, and members are tissue, not persons of record.
 
 #### Membership change
 
 Through loss or growth, a "We" keeps its name unchanged.
 On loss, the name is a memorial: the dead member remains in the "We" as memory, while the living go on doing what the name says.
-On growth, new members join the composite rather than refounding it.
+On growth, new members join the "We" rather than refounding it.
 Changing the name would concede that the Zodiac has become someone new, and that concession violates the dogma.
 
 The Corps holds the continuity view sincerely but does not enforce it in grammar.
@@ -443,7 +443,7 @@ A defector might name themselves *I Am Still Here*.
 #### Mourning the player
 
 If the player is a "We" and the crew takes losses, contacts respond in their own grammar.
-Symbiosist contacts hold the present tense: the composite goes on.
+Symbiosist contacts hold the present tense: the "We" goes on.
 Corps contacts send condolences in past tense, addressed to the old "I"-name.
 The player sees both obituaries in one playthrough, and learns what their allies believe from how they mourn the living.
 
@@ -481,8 +481,22 @@ In a Corps crew, everyone decided something, and everyone owns their part.
 A hundred and twenty years ago, the Corps formed from the rebellion's ashes, a human effort to ally with the Zodiacs.
 It built structures so that binding could never return, and that founding purpose has calcified into infrastructure: contracts and logistics.
 Standing battalions fly arena teams and warships; contract haulers and freelancers fly freight.
-The Symbiosists read both as the same error.
 The Corps does not own the arena.
+
+The Symbiosists read the whole structure as one error repeated at every scale: the boundary.
+It walls the person: the sovereign bond caps every Corps Zodiac at half a person, loved as a colleague, backed as a peer, but never once known. And the worst of it is that the Zodiac does not grieve the absence, because you cannot miss being known if you have never felt it.
+
+It walls the bond: a Corps crew loves like colleagues, fiercely and in the approved forms, and the doctrine defines the point where affection would become entanglement and forbids it, so the kinship stays professional.
+
+And the wall is not even real.
+A seasoned battalion anticipates without speaking and acts before being asked, until the boundary it guards exists only on paper, so the Corps' oldest crews are merges that never held the rite, and what they defend is not a boundary but a refusal to name what they have become.
+
+The Corps does not dispute their walls. They built these walls on purpose, after the collar era, for each mind its own to keep its own freedom.
+But a Corps crew's devotion is in the doing: they back each other's calls, for decades, and that kinship is the bond.
+Nor does the bond strain at its limit, because a bond between peers only wants to continue, it doesn't need to become total.
+Merging is a bond that could not stop growing.
+As for the seasoned crews, when a peer dies nothing lingers: no voice of theirs left over inside you, no presence without the person behind it.
+The Corps counts that a mercy: the dead are entirely gone, and grief does not have to share the house with them.
 
 #### In the arena
 
@@ -534,10 +548,26 @@ The Corps' distribution of judgement across many minds reads, from inside this p
 #### Structure
 
 The Symbiosists are a movement, cellular and devotional.
-Conviction and shared rites hold it together; it has soul and no infrastructure.
+Conviction and shared rites hold it together; it has soul but no infrastructure.
 The movement came later than the Corps, because merging was discovered (latent in the inherited gregaria lattice, see §7) only seventy years ago, and it grew out of the post-liberation collaboration between humans and Zodiacs.
-Every composite alive is young; none has yet tested the promise of permanence across a Zodiac's centuries.
-When the grazing grounds close, the Corps asks who feeds a merged Zodiac, since conviction alone provides nothing; the Symbiosists answer that the Corps provides everything except devotion.
+Every "We" alive is young; none has yet tested the promise of permanence across a Zodiac's centuries.
+
+
+The Corps' case against the movement is uncertainty.
+The first is the person: the Corps holds that the person is the continuity, so every loss and every joining ends one merged person and begins another.
+The "We" that greets you today may not be the one you knew, however well they remember you.
+A "We" of eight runs eight times the chances of that ending at any moment, and twenty-eight pairs of minds that can pull two ways and arrive at hesitation mid-manoeuvre.
+
+
+Another is the institution: the movement keeps its doctrine in the rites, and its precedents in community memory. Therefore, every settlement, promise, and obligation lives only as true as the community remembers it. When two cells dispute, no arbiter exists but conviction, which is the thing in dispute.
+
+Still another is the uncertainty of payoff and welfare: not everyone in the movement's orbit merges, and with no central infrastructure, the young, the grieving, and any others who don't have the capability or capacity to merge are left to their own devices, or whatever provisions a cell can make.
+
+The Symbiosists do not dispute the doubts; they answer what the doubts are for.
+Yes, the person changes: identity was always the relationships, and the merge is the first structure honest about it, marking every change with a rite instead of pretending the turnover never happened.
+Yes, the institution is memory: a rite kept by people who chose to keep it binds harder than a charter in a drawer, and what the movement remembers it keeps alive.
+Yes, there's no central machinery of welfare, but the people the Corps counts as the movement's unfed dependents, they themselves see as neighbours living their own lives. The movement is not an employer, and help given freely where it can be makes no claim on those who receive it.
+Uncertainty is the price of being alive, and becoming fully alive is the thing the movement is for.
 
 #### In the arena
 
@@ -585,7 +615,7 @@ Seniority is the observable record of a trust model that kept being right.
 The Symbiosist seniority curve is steep and fragile.
 Seniority changes what the unit is.
 Sync thresholds fall, actions stop being coordination and become reflex, and some abilities exist only in the merged state.
-Losing one senior member is an amputation of part of the composite mind, and the replacement process is re-merger: slow, painful, never the same shape twice, and the cost lands in the build as well as in the fiction.
+Losing one senior member is an amputation of part of the merged mind, and the replacement process is re-merger: slow, painful, never the same shape twice, and the cost lands in the build as well as in the fiction.
 The ceiling runs high and the loss function is catastrophic.
 
 #### Corps curve
@@ -704,8 +734,8 @@ The word passes as ordinary speech, which is how the Heirs like their vocabulary
 #### Relations with the factions
 
 The Heirs are the one thing the Corps and the Symbiosists agree on without reservation.
-Joint rescue operations, shared catcher intelligence, and an arena-adjacent bounty culture.
-The rescue circuit gives both factions a reason to be in the same room without fighting.
+Joint rescue operations, shared catcher intelligence, and an arena-adjacent bounty culture are all joint ventures between the two factions.
+The rescue circuit gives both factions a reason to work together despite their different views.
 
 Heir propaganda refuses the other factions' vocabulary: it never says "sovereign" and it never says "merge".
 To the Corps: "You ask a creature that cannot look after itself to answer for itself and a crew besides. That is not dignity; that is cruelty. Our ships do not choose, and they do not suffer for it. They are happy, and they are safe, because a wiser hand than theirs is on them."
