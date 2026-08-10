@@ -638,7 +638,7 @@ The Heirs say *to carry*, the Corps says *to choose*, and the Symbiosists say *t
 The collar era bent the will but left the mind, so a collared Zodiac was a prisoner, awake and hating.
 The Heirs' method is categorically worse, because a quenched Zodiac is not even a prisoner: there is nobody awake to be one.
 The Heirs call it *quenching*: a word that promises relief from thirst and describes a fire put out.
-A quenched Zodiac is capable, compliant, and content.
+A quenched Zodiac is capable and compliant, and the Priest supplies the contentment.
 Even the people who ran the collar era never did this.
 
 The instrument is an engineered parasite the Heirs call *the Priest*.
@@ -665,10 +665,12 @@ The rescue circuit's medics say the first weeks after extraction are when a resc
 
 #### "Mule"
 
-Zodiac language forces everyone to say "I".
-The Heirs' slang refuses it: *mule* is a third-person object-word, and refusing the name does the quenching's work in speech.
-Free Zodiacs hear "mule" the way they hear "feral", but worse.
-"Feral" names the unquenched; "mule" names someone the quenching has unmade.
+A Zodiac claims their name in the first person, and everyone who speaks it speaks as that Zodiac.
+But the Heirs give their captives no name at all.
+They call a quenched Zodiac *mule*, a beast-of-burden noun.
+
+They call the stripping a restoration.
+They hold that Zodiac sapience was an accident the Zoewrights never intended, so a mule is the vessel returned to specification.
 
 Heir euphemisms for the procedure and the product keep their register: a mule is a "quiet ship", the quenching is "calming" or "restoration to purpose".
 
