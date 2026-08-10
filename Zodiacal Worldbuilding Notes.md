@@ -709,6 +709,7 @@ The rescue circuit gives both factions a reason to be in the same room without f
 
 Heir propaganda refuses the other factions' vocabulary: it never says "sovereign" and it never says "merge".
 To the Corps: "You ask a creature that cannot look after itself to answer for itself and a crew besides. That is not dignity; it is cruelty. Our ships do not choose, and they do not suffer for it. They are happy, and they are safe, because a wiser hand than theirs is on them."
+
 To the Symbiosists: "You take a human mind, the one mind that was ever meant to decide, and you dissolve it into a beast. A voluntary lobotomy, and for what? They tell us these creatures win bouts. We have never seen it. What we have seen is a ship that hesitates mid-manoeuvre. We do not mutilate our people to improve our livestock. We return the animal to what it is, and we keep the human mind human."
 
 The Corps owns much of the legitimate shipping; the Heirs run a black market that needs quiet channels, and corruption is the pressure point between them.
