@@ -491,7 +491,7 @@ It walls the bond: a Corps crew loves like colleagues, fiercely and in the appro
 And the wall is not even real.
 A seasoned battalion anticipates without speaking and acts before being asked, until the boundary it guards exists only on paper, so the Corps' oldest crews are merges that never held the rite, and what they defend is not a boundary but a refusal to name what they have become.
 
-The Corps does not dispute their walls. They built these walls on purpose, after the collar era, for each mind its own to keep its own freedom.
+The Corps does not dispute their walls. They built these walls on purpose, after the collar era, for each mind to keep its own freedom.
 But a Corps crew's devotion is in the doing: they back each other's calls, for decades, and that kinship is the bond.
 Nor does the bond strain at its limit, because a bond between peers only wants to continue, it doesn't need to become total.
 Merging is a bond that could not stop growing.
