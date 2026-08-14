@@ -44,7 +44,6 @@
 
 - Fluency shares some similarities with masking, but differs on these points.
 - Stigma: masking exists under penalty; this culture has zero stigma (see Mirroring).
-- Direction: masking conceals from an audience that must not see; fluency manages what is transmitted.
 - Self-relation: masking is a survival mechanism under threat; fluency carries no such threat.
 - Learning: masking is learned under pressure; fluency is learned as play.
 - Shared cost: both take effort, and the effort shows on neither face nor light. Both can become quietly compulsory without formal penalty. This overlap is where the invisible-disability mapping lives.
