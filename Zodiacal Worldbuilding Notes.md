@@ -810,29 +810,40 @@ A catch-all for ideas that fit no section yet, parked here for later.
 - **Atlas 16**: put a Zodiac somewhere under the designation *Atlas 16*, an easter egg homage to No Man's Sky, where sixteen recurs as the Atlas's own number.
 The designation system (§12) names a community plus a number, so the reference implies an unexplained community called Atlas, and that gap is part of the joke.
 Placement undecided.
+Perhaps this was I Explore With Wonder's designation.
 
 <!-- Ignore below this line
 
 # Todo
 
-* Atlas 16 Zodiac name easter egg
-* Zodiac mental health
-* Merged -> joined
-* Robocop thing -- major plot point in story?
+* [x] Atlas 16 Zodiac name easter egg
+* [x] Zodiac mental health
+* [ ] Merge/"We" -> joined zodiac
+* [ ] Human members of a joined zodiac act as avatars (like in Andromeda)
+* [ ] Zodiac life is fast and slow:
+  - Fast and decisive in combat
+  - Slow and contemplative perspective and philosphy (they live on a different scale to us in space and time)
+* [ ] comms -- always light
+  - Zodiacs never use direct radio to communicate; they are not machines
+  - Zodiacs have no concept of sound as we do, because it's not a concept in space
+  - Their language is based entirely around light
+  - Long-range (FTL) comms happen visually, by creating light-based disturbances in space near another Zodiac
+  - Zodiacs learn ciphers at an early age (they make games of it), and are naturally adept at this kind of information transformation
+* [ ] Robocop thing -- major plot point in story?
   - Eg someone's trying to engineer a priest with a gregaria lattice to try and control Zodiacs without them realising
     - Zodiac thinks it's made decision, but actually it's the parasite
     - Maybe move the quenced Zodiacs responding from the parasite to be a consequence of this?
-* Do Zodiacs sleep?
-* Why can't Zodiacs land on planets?
+* [ ] Do Zodiacs sleep?
+* [ ] Why can't Zodiacs land on planets?
   - It's not because of gravity -- feed on stars
   - Pressure and thick atmosphere?
     - Like water for us?
   - Makes them disoriented?
     - Maybe they *can*, just really dislike it
-* How do Zodiacs deal with heat?
-* Light producing organs on Zodiac: faculae
-* Common names for Miranda species
-* Zeta as symbol for Zodiacs
+* [ ] How do Zodiacs deal with heat?
+* [ ] Light producing organs on Zodiac: faculae
+* [ ] Common names for Miranda species
+* [ ] Zeta as symbol for Zodiacs
   - Derived from Proto-Sinaitic glyph _ziqq_ meaning "fetter", or copper ingot heiroglyph -- Aramaic "Zayin" means "arms", "armour", or "metal used for arms"
   - Phonecian ascendent means "sword" or "weapon", Hebrew "zayin" means weapon
   - Zodiacs are the chained weapon
