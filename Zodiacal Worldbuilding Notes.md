@@ -803,4 +803,38 @@ To the Symbiosists: "You take a human mind, the one mind that was ever meant to 
 13. How many vision modes are there, what does each highlight, how do painterly rendering layers map to senses, and what is the performance cost?
 14. How do multiplayer and single-player relate? Shared canon, shared unlocks? Is the arena the same physical place in both modes?
 
+## 19. Loose Ends
 
+A catch-all for ideas that fit no section yet, parked here for later.
+
+- **Atlas 16**: put a Zodiac somewhere under the designation *Atlas 16*, an easter egg homage to No Man's Sky, where sixteen recurs as the Atlas's own number.
+The designation system (§12) names a community plus a number, so the reference implies an unexplained community called Atlas, and that gap is part of the joke.
+Placement undecided.
+
+<!-- Ignore below this line
+
+# Todo
+
+* Atlas 16 Zodiac name easter egg
+* Zodiac mental health
+* Merged -> joined
+* Robocop thing -- major plot point in story?
+  - Eg someone's trying to engineer a priest with a gregaria lattice to try and control Zodiacs without them realising
+    - Zodiac thinks it's made decision, but actually it's the parasite
+    - Maybe move the quenced Zodiacs responding from the parasite to be a consequence of this?
+* Do Zodiacs sleep?
+* Why can't Zodiacs land on planets?
+  - It's not because of gravity -- feed on stars
+  - Pressure and thick atmosphere?
+    - Like water for us?
+  - Makes them disoriented?
+    - Maybe they *can*, just really dislike it
+* How do Zodiacs deal with heat?
+* Light producing organs on Zodiac: faculae
+* Common names for Miranda species
+* Zeta as symbol for Zodiacs
+  - Derived from Proto-Sinaitic glyph _ziqq_ meaning "fetter", or copper ingot heiroglyph -- Aramaic "Zayin" means "arms", "armour", or "metal used for arms"
+  - Phonecian ascendent means "sword" or "weapon", Hebrew "zayin" means weapon
+  - Zodiacs are the chained weapon
+
+-->
