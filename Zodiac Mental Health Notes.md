@@ -36,18 +36,18 @@
 - The labor of appearing well is unseen. This is where the invisible-disability mapping lives.
 - Fluency is texture, not pure cost: *abyssals* is fun, and command of one's own light is a pleasure.
 - *Abyssals* is a noise game: the pattern degrades a little each time it changes hulls (§11).
-- The culture grows up knowing that signal rots in transmission.
 - Zodiacs learn ciphers as games when young (note for later development).
 - A cipher encrypts only the grammar of light-signalling. The emotional leakage underneath cannot be ciphered.
 
 ### A note on masking
 
-- Fluency shares some similarities with masking, but differs on these points.
-- Stigma: masking exists under penalty; this culture has zero stigma (see Mirroring).
-- Self-relation: masking is a survival mechanism under threat; fluency carries no such threat.
-- Learning: masking is learned under pressure; fluency is learned as play.
-- Shared cost: both take effort, and the effort shows on neither face nor light. Both can become quietly compulsory without formal penalty. This overlap is where the invisible-disability mapping lives.
-- "Masking" carries heavy load in autistic and disability communities. Do not use it for this practice.
+- Fluency is the skill; masking is one use of it.
+- Ordinary uses of fluency: play, courtesy, function (see above).
+- A Zodiac who feels unsafe can turn the same skill to concealment. Then it works as masking does: survival-driven, compulsory, invisible as labor.
+- Masking is a survival mechanism under threat. Fluency itself carries no such threat; the threat comes from the situation, not the skill.
+- Masking is learned under pressure; fluency is learned as play.
+- Shared cost: both take effort, and the effort does not show on light. It can become quietly compulsory without formal penalty.
+- "Masking" carries heavy load in autistic and disability communities. Do not use it for the skill.
 
 ## Structural invisibility
 
