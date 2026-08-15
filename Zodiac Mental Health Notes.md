@@ -7,19 +7,19 @@
 
 ## Light as speech
 
-- Core decision: a Zodiac's light is both a way of speaking and a mood display.
-- Canon already splits light into grammar and leakage.
-- *Miranda abyssalis* signals in bioluminescent grammar (§7).
-- Feelings show through the grammar. They do not replace it.
+- Core decision: a Zodiac's light is both a language and a mood display.
+- Canon already splits light into language and tone.
+- *Miranda abyssalis* speaks in light, a full bioluminescent language (§7).
+- Feelings show through the language as tone. They do not replace it.
 - The legacy to the hull is colour and eloquence (§7).
 
 ### The spectrum
 
-- One pole: clean grammar.
-- Other pole: the scream. Involuntary, full-spectrum discharge. No syntax. Pure emotion.
+- One pole: clear speech.
+- Other pole: the scream. Involuntary, full-spectrum discharge. No words. Pure emotion.
 - Between the poles: degrees of noise.
 - Noise is pain, confusion, grief, or exhaustion corrupting the signal unintentionally.
-- A Zodiac in pain keeps full brightness and loses syntax. Bright, eloquent, unparseable.
+- A Zodiac in pain keeps full brightness and loses words. Bright, eloquent, unparseable.
 
 ### Safety property
 
@@ -31,13 +31,13 @@
 ## Fluency
 
 - Canon root: the game *abyssals* trains this skill (§11): a young Zodiac "learns to hold their light steady early."
-- Fluency is suppressing the emotional leakage so that only the intended signal goes out.
+- Fluency is suppressing the tone so that only the intended signal goes out.
 - The suppression takes effort, and the effort does not show in the light.
 - The labor of appearing well is unseen. This is where the invisible-disability mapping lives.
 - Fluency is texture, not pure cost: *abyssals* is fun, and command of one's own light is a pleasure.
 - *Abyssals* is a noise game: the pattern degrades a little each time it changes hulls (§11).
 - Zodiacs learn ciphers as games when young (note for later development).
-- A cipher encrypts only the grammar of light-signalling. The emotional leakage underneath cannot be ciphered.
+- A cipher encrypts only the language of light-signalling. The tone underneath cannot be ciphered.
 
 ### A note on masking
 
@@ -153,7 +153,7 @@
 - It works like counseling: an external perspective, constant back-and-forth to work through difficult times, new framings, and practical workarounds for mental health challenges.
 - Space is big. For spacefaring creatures, care looks like not being alone in a vast universe.
 - Not about loneliness as a condition; simply not being alone.
-- Zodiacs read each other's light natively, in the grammar inherited from *abyssalis* (§7). A human counselor never reads so well.
+- Zodiacs read each other's light natively, in the language inherited from *abyssalis* (§7). A human counselor never reads so well.
 - The mirror does not guard, decide, or steer. They show up and fly beside.
 - The one mirrored keeps full agency: their routes, their choices, their pace.
 - A mirroring journey can last over weeks, months, or decades.
@@ -233,7 +233,7 @@
 - If distress is visible to anyone who passes, and the culture's answer is always company, then a Zodiac who wants to suffer privately has to flee to get it.
 - Privacy about your inner life requires leaving your community.
 - Not "nobody cares" but "everybody cares, constantly, and the only way to be alone with it is to be alone entirely."
-- Ciphers do not close this gap. Zodiacs learn ciphers as games when young, but a cipher only encrypts the grammar of light. The emotional leakage underneath is plain.
+- Ciphers do not close this gap. Zodiacs learn ciphers as games when young, but a cipher only encrypts the language of light. The tone underneath is plain.
 
 ## Guardrails
 
