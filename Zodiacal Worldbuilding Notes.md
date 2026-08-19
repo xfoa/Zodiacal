@@ -27,6 +27,10 @@ Zodiacs are always they/them and have neither gender nor sex.
 - **Farscape** for the Leviathans: living ships bonded to their Pilots, and the control collar as a ready-made shorthand for enslaving one.
 - **BSG** for the Hybrid and for Cavill's gamma-ray speech, inverted: Zodiacs already have the embodied transcendence Cavill envied. Character seed: a Corps engineer who worships and resents them for it. "I want to see what you see. Let me in."
 - **Seventies synth** as the score's spine. The score works as diegetic proprioception: the Zodiac hears space. Music swells with thrust and goes thin and wrong when the ship is hurt. Albums in §3.
+- Ideas from [*I Am Turning Myself Into a Video Game Plane*](https://www.youtube.com/watch?v=5Cr0p0SmDxU&pp=ygUMamFjb2IgZ2VsbGVy) by Jacob Geller
+  - Player as a craft -- perspective
+  - Movement <--> connection
+- [*I Sexually Identify as an Attack Helicopter*](https://archive.ph/20200101232918/http://clarkesworldmagazine.com/fall_01_20/) by Isabel Fall
 
 ## 3. Art and Music Direction
 
