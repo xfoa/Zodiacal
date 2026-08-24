@@ -855,4 +855,12 @@ Perhaps this was I Explore With Wonder's designation.
 * [ ] Weapon tradeoffs:
   - Accuracy/autoaim vs hit telegraphing (eg projectile speed) -- dodgability
   - AOE vs damage
+* [ ] how to make space combat fast-paced and interesting?
+  - interesting: following path for aim
+  - not interesting: following always being automatic (nms)
+  - fast: tactical speed buffs -- more akin to teleport (just shy of instantaneous though) rather than boost. or maybe both?
+  - slow: large distances
+  - fast: close quarters -- agressively bound arena?
+  - interesting: momentum
+  - interesting but not appropriate: movement behaving like a warplane in atmosphere
 -->
