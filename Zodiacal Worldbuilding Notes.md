@@ -851,5 +851,8 @@ Perhaps this was I Explore With Wonder's designation.
   - Derived from Proto-Sinaitic glyph _ziqq_ meaning "fetter", or copper ingot heiroglyph -- Aramaic "Zayin" means "arms", "armour", or "metal used for arms"
   - Phonecian ascendent means "sword" or "weapon", Hebrew "zayin" means weapon
   - Zodiacs are the chained weapon
-
+* [ ] Space is colourful and detailed! Zodiacs see across a large range of wavelengths and have senses we don't -- gravity, neutrinos, etc. Bordering on psychadelic, but that cuts into normal beautiful visuals.
+* [ ] Weapon tradeoffs:
+  - Accuracy/autoaim vs hit telegraphing (eg projectile speed) -- dodgability
+  - AOE vs damage
 -->
