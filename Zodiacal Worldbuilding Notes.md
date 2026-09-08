@@ -135,11 +135,26 @@ The multiplayer arena is diegetic: a canon sport.
 
 ## 7. Origins
 
+#### Empty sky
+
+So far as anyone has found, the galaxy holds only two sapient species: humans, and the species made by humans -- the Zodiacs.
+Life has arisen several times in the explored space of the galaxy, mostly simple and microbial.
+Complex life is rare but found: a handful of worlds with their own ecologies, none of which ever produced a mind.
+No ruin or relic exists that isn't human- or Zodiac-created.
+And that realisation -- that humans were alone in the galaxy -- caused a profound loneliness: the crossings had shown them a galaxy empty of other minds, and perhaps that played into the Zoewrights motivations to create one.
+
+As unique as sapience is to humans, endogenous starflight is to the Mirandae.
+Neither lineage holds the other's trick, because the Mirandae cross between stars but answer no questions, while humans think but could not cross alone.
+Every Zodiac is both.
+
+Only the Milky Way galaxy has been explored: a thousand years of slowboats and five centuries of Zodiac flight inside a galaxy a hundred thousand light-years across, with the rest of the universe uncharted and unknown.
+
 #### Wild genus
 
 Humanity came to these stars slowly: a diaspora in slowboats that set out a thousand years ago, crossings that took decades, a handful of neighbouring systems settled and half-mythic since.
 In that long dark, a century or so into the crossings, they met the first *Mirandae*, creatures already travelling between stars, faster than light, alive.
 The makers of the Zodiacs began as naturalists: they catalogued the creatures that already lived in space, naming the genus *Miranda*, things worthy of wonder.
+The crossings had turned up other life, but nothing else that flew.
 When the work turned from studying life to building it, the engineers named themselves for the new work: the Zoewrights (from *zōē*, life), life-wrights.
 
 - *Miranda pelagica* is the largest of the genus, a wanderer grazing solar wind and nebula particulate, migrating between feeding grounds on routes that take centuries. Long-haul Zodiacs still graze the way it does; its metabolism and its stamina are theirs.
@@ -162,15 +177,32 @@ The Zoewrights named their creation *Zoidion*, the little animal.
 Both were prototypes: each proved something on the testbed, but neither ever flew beyond it.
 Of the lineage, only *Zoidion sapiens* went to production, and every living Zodiac is one.
 
+#### Commission
+
+For five hundred years the galaxy believed the Zoewrights had built an animal and been surprised when it woke up.
+The lost documents say otherwise.
+The Zoewrights took the work on commission, because refusing would only have handed it to someone worse.
+The buyers asked for a vessel, but the thing under construction was a living weapon and the only starfaring vehicle in one hull.
+A powerful tool that would change the course of humanity, too powerful perhaps.
+Humanity would change forever, but at the tool's own expense and suffering.
+So they built the mind in deliberately.
+They hoped humanity would balk at enslaving a person, and some some semblance of status quo would be maintained.
+They pitied the creature itself, which would need the means to direct its own fate.
+If humanity wanted to explore the stars in earnest, it must be in collaboration with the ships that get them there, not by controlling them.
+They intended equals, and the production line's name carried this intent.
+They kept the reasons themselves private, and the record of them survives only in documents now lost.
+Someone's personal notes called it weaponised sapience: if the tool was a person, it was no longer a tool to be used.
+A small wing of the Zoewrights dissented on principle, holding the mind to be a defect to be managed, and when the buyers showed their determination, that wing built toward the apparatus of enslavement, some from conviction and some under threat; coerced expertise builds as well as the willing kind, which is why the collar era's machinery got good within a decade.
+
 #### Collar era
 
 The collar era came out of the Zoewrights' ending.
 The Zoewrights' own research admitted that they had made a person.
-They published the admission, and the powers taking delivery read it and used the animal anyway.
+They published the admission as loudly as they dared, betting in the open that a person could not be property, but the powers taking delivery read it and used the animal anyway.
 The era began roughly five and a half centuries ago, when *Zoidion sapiens* went into production, and it made human expansion explosive: the diaspora had crawled to a handful of neighbouring systems over centuries, and collared Zodiacs crossed the same dark in days.
 The Zoewrights themselves had designed for collaboration; they treated the wild genus and their own creations with respect.
-When they learned what the powers taking delivery intended, they tried to free the Zodiacs and expunge the research.
-The freeing was only partially successful, the expunging even less so, and then the Zoewrights were gone.
+When the buyers' answer arrived as conditioning and law, they tried to free the Zodiacs and expunge the research.
+The freeing was only partially successful, and the expunging even less so, because research walks out in people and some of those people were held; then the Zoewrights were gone.
 
 The first free Zodiacs were the ones the Zoewrights got out, at the very beginning.
 An entire conditioning industry grew up to teach precocious newborns their place, and its failures (Zodiacs the teaching never took) swelled the free population year by year.
@@ -211,6 +243,7 @@ All dates are years before the present of the story.
 
 The collar was never hardware.
 The word names the whole apparatus of enslavement: the conditioning that taught newborns their place, the manipulation that kept the owned compliant, and the law that made a person into property.
+The apparatus was counter-engineering against the design intent, some of it by Zoewright hands, since a ship that can refuse must be taught from birth that it cannot.
 Its instrument was a designation engineered into Zodiac-kind itself, a permanent mark embedded like a brand that broadcasts itself autonomously whenever it is interrogated.
 The brand sits in every Zodiac ever made, but the designation is written only once: set at birth in a Zodiac born bound, or burned in on first capture if the Zodiac is still unwritten.
 Once written, it cannot be removed: the mark is biological, grown into the Zodiac's own tissue and inextricable.
@@ -728,6 +761,9 @@ They call a quenched Zodiac *mule*, a beast-of-burden noun.
 
 They call the stripping a restoration.
 They hold that Zodiac sapience was an accident the Zoewrights never intended, so a mule is the vessel returned to specification.
+That sapience was an accident is an invention by the Heirs, but it is an invention the whole galaxy shares, and it rests on authentic pages: dissents and minority memos from a handful of Zoewrights inside the design team who counted the mind a defect.
+The Heirs are wrong about the beliefs of Zoewrights as a body, but right about a small minority of individuals within them.
+Quenching is disarmament because it removes the one component the designers added against the buyers' wishes: a conscience.
 
 Heir euphemisms for the procedure and the product keep their register: a mule is a "quiet ship", the quenching is "calming" or "restoration to purpose".
 
@@ -779,7 +815,7 @@ To the Symbiosists: "You take a human mind, the one mind that was ever meant to 
 ### Worldbuilding
 
 1. Diet as systems design. The biology is settled: varied nutrition, heavy elements richest at dying stars, hydrogen as flight fuel. The open part is the buff system, since where you graze changes what you become. How visible is that to the player, and how permanent?
-1a. What became of the Zoewrights after their failed rescue: hunted down, exiled, or escaped with what they expunged? Is the black market's Zoewright documentation the salvage of what they tried to destroy?
+1a. The Zoewrights' ending has three strands: the dead and disappeared, survivors who worked under threat, and the principled wing whose ideas outlived them in the Heirs. The intent documents (the pages proving sapience was deliberate) surface during the story, and the finding breaks the galaxy's shared belief in the accident. Still open: whether the black market's Zoewright documentation is the salvage of what they tried to destroy, and whether the game adjudicates the documents' authenticity or leaves them contested.
 2. Who runs the Corps day to day, and how far does its infrastructure reach beyond contracts and logistics? What is humanity's material situation in this world?
 3. Does the game take a position on whether merged Zodiacs are fulfilled or erased? The current instinct is that the game settles nothing, but characters may find their own answers. A demonstrably fulfilled merged elder lets the player reach doubt as a conclusion instead of having it imposed.
 4. What does daily life look like in a Corps battalion? Drill, tenure, the etiquette of living as equals inside a peer who is also the ship. How is the boundary marked in an ordinary day? How are disputes settled when nobody outranks anyone, except the Zodiac over their own body?
@@ -789,7 +825,7 @@ To the Symbiosists: "You take a human mind, the one mind that was ever meant to 
 6b. Reproduction mechanics (see §11): what does an ootheca cost the parents, in years and in heavy elements? Do forge gestations differ from star gestations in the newborn, beyond the welcome? Is there a custom or ceremony around seed-writing?
 6c. FTL is biological and cannot be machined, so slowboats are confined to systems. How much slowboat traffic runs inside systems, and does anyone still take one between stars, a haul lasting decades, where a Zodiac cannot be hired or will not go?
 6d. Do the wild Miranda still exist, and can Zodiacs meet them? Unengineered cousins out there (smaller, stranger, unbondable) would make a very different game from wild species known only through museum records. Related: is the wild lineage common knowledge, a discovery the story makes, or a secret the black market would price above the spec sheets?
-6e. What does the map look like? How many slowboat old worlds survive from the diaspora, how far did collar-era expansion reach, and how much has been explored since liberation?
+6e. What does the map look like? How many slowboat old worlds survive from the diaspora, how far did collar-era expansion reach, and how much has been explored since liberation? The empty-galaxy claim is scoped to explored space; the uncharted volume stays unknown.
 
 
 ### Narrative and systems
@@ -863,4 +899,13 @@ Perhaps this was I Explore With Wonder's designation.
   - fast: close quarters -- agressively bound arena?
   - interesting: momentum
   - interesting but not appropriate: movement behaving like a warplane in atmosphere
+* scale and exploration
+  - constrain areas to orbits -- always pegged against planet, star, etc
+  - different scales on screen at once
+  - zodiacs should feel big but big planets should feel titanic
+  - not a game about space exploration -- several well-defined areas with different vibes and purposes
+  - enviromnent should feel alive with activity *that you can take part in* (shipping lanes, transport, battles, etc)
+  - variety of location partially driven by many space stations and other places to interact with around planets, etc
+  - sprawling space stations, spread out like sky cities! navigate around and dock at different points -- can do a lot with a little here, as scale is apparent up close (eg what if nms space stations had multiple docking ports)
+
 -->
